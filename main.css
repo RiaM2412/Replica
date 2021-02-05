@@ -6,7 +6,7 @@
    
     width: 100vw;
     height: 100vh;
-    background-color: rgba(243, 238, 254);
+    background-color: #f0f2f5;
     display: flex;
     justify-content: center;
 }
